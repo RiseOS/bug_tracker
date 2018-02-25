@@ -7,3 +7,6 @@ Write the issue description here.
 
 **How to reproduce:**
 Write how to reproduce here.
+
+**Logs:**
+Attach log file here.
